@@ -30,7 +30,7 @@ DFLNet
 │   │   │   ├── 00001.bmp
 │   │   │   ├── 00002.bmp
 │   │   │   ├── .....
-│   ├── valied
+│   ├── valid
 │   │   ├── img
 │   │   │   ├── 00009.bmp
 │   │   │   ├── 00015.bmp
@@ -62,7 +62,7 @@ python train.py
 
 ## Test
 
-Modify the paths in lines 15 to 19 of the eval.py, then simply run:
+Modify the paths in lines 14 to 15 of the eval.py, then simply run:
 
 ```python
 python eval.py
@@ -70,7 +70,7 @@ python eval.py
 
 ## Visualization
 
-Modify the paths in lines 15 to 20 of the visualization.py, then simply run:
+Modify the paths in lines 13 to 17 of the visualization.py, then simply run:
 
 ```
 python visualization.py
